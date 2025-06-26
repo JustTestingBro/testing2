@@ -1,0 +1,21 @@
+
+Patient: P001 | Symptoms: dizziness | Prescription: Lisinopril 20mg once daily.  Follow up in one month.
+
+Patient: P002 | Symptoms: rashes | Prescription: Hydroxyzine 25mg three times daily as needed for rash.  Follow up in one week.
+
+Patient: P001 | Symptoms: Dizziness | Prescription: Lisinopril 20mg once daily.  Follow up in one month.
+
+Patient: P002 | Symptoms: Fever | Prescription: Acetaminophen 500mg every 4-6 hours as needed for fever.  Follow up in 2 days.
+
+Patient: P001 | Symptoms: fever, cough | Prescription: Lisinopril 20mg once daily.  Acetaminophen 500mg every 4-6 hours as needed for fever. Follow up in two days.
+
+Patient: P001 | Symptoms: dizziness | Prescription: Lisinopril 20mg once daily.  Follow up in one month.
+
+Patient: P002 | Symptoms: fever | Prescription: Acetaminophen 500mg every 4-6 hours as needed for fever.  Follow up in 2 days.
+Patient: P001 | Symptoms: fever and cough | Prescription: Lisinopril 20mg once daily.  Acetaminophen 500mg every 4-6 hours as needed for fever. Follow up in two days.
+Patient: P001 | Symptoms: fever and cough | Prescription: Lisinopril 20mg once daily.  Acetaminophen 500mg every 4-6 hours as needed for fever.  Follow up in two days.
+Patient: P001 | Symptoms: fever and pain in leg | Prescription: Lisinopril 20mg once daily.  Acetaminophen 500mg every 4-6 hours as needed for fever.  Ibuprofen 400mg every 6-8 hours as needed for leg pain. Follow up in two days.
+Patient: P001 | Symptoms: Fever and headache | Prescription: Lisinopril 20mg once daily.  Acetaminophen 500mg every 4-6 hours as needed for fever.  Follow up in two days.
+Patient: P003 | Symptoms: Fever | Prescription: Acetaminophen 500mg every 4-6 hours as needed for fever.  Follow up in two days.
+Patient: P003 | Age: 45 | Diagnosis: Asthma | History: Shortness of breath, Wheezing, Frequent coughing | Symptoms: Fever | Prescription: Albuterol sulfate inhalation solution, 0.083%, 2.5 mL,  2 puffs every 4-6 hours as needed.  Acetaminophen 500mg every 4-6 hours as needed for fever, not to exceed 4000mg in 24 hours.  Follow up in two days.
+Patient: P003 | Age: 45 | Diagnosis: Asthma | History: Shortness of breath, Wheezing, Frequent coughing | Symptoms: Fever | Prescription: Paracetamol only
